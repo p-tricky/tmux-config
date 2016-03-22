@@ -6,5 +6,5 @@ git clone git@github.com:p-tricky/tmux-config.git .tmux
 ln -s .tmux.conf .tmux/tmux.conf  
 cd .tmux  
 git submodule update --init --recursive  
-<prefix> I  
+\<prefix\> I  
 
